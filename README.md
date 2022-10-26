@@ -1,6 +1,6 @@
 ### Olá! Sou o Lucas Costa, estudante de programação!
 
-- 🌱 Estudando JavaScript ...
+- 🌱 Estudando React Js ...
 
 <div align="center">
   <a href="https://github.com/luchtml">
