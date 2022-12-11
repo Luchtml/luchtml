@@ -1,4 +1,4 @@
-### Olá! Sou o Lucas Costa, estudante de programação!
+### Olá! Sou o Lucas Costa, estudante de Desenvolvimento Web!
 
 - 🌱 Estudando React-Js ...
 
